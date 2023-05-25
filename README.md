@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sandro KE
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Student/Creator)`**
 
 Hello, I am a 3rd year Computer Systems Engineering student with a passion for programming and problem-solving. I have a diverse set of skills in various programming languages and web technologies.
 My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CSS. I have hands-on experience in building dynamic and interactive web applications, utilizing the power of PHP and JavaScript. Additionally, my knowledge of C++ and Python allows me to develop efficient and robust software solutions.
@@ -33,11 +33,6 @@ My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CS
 
 #
 
-
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
 
 ### 📊 Stats
 
