@@ -1,6 +1,13 @@
 # 🏄‍♂️ Sandro KE
 
-**`Digital Craftsman (Developer/Student/Creator)`**
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alessandro+Koome+)](https://git.io/typing-svg)
+
+<p align="left"> <img
+    src="https://komarev.com/ghpvc/?username=Alessandro-Koome&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Alessandro-Koome" /> </p>
+  
+Welcome to my Github page
 
 Hello, I am a 3rd year Computer Systems Engineering student with a passion for programming and problem-solving. I have a diverse set of skills in various programming languages and web technologies.
 My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CSS. I have hands-on experience in building dynamic and interactive web applications, utilizing the power of PHP and JavaScript. Additionally, my knowledge of C++ and Python allows me to develop efficient and robust software solutions.
