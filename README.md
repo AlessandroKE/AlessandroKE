@@ -1,10 +1,10 @@
 # 🏄‍♂️ Sandro KE
 
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alessandro+Koome+)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alessandro+)](https://git.io/typing-svg)
 
 <p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=Alessandro-Koome&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Alessandro &label=Profile%20views&color=0e75b6&style=flat"
     alt="Alessandro-Koome" /> </p>
   
 Welcome to my Github page
