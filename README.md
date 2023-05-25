@@ -2,7 +2,8 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[AlessandroKE][youtube]" to more than 400k subscribers.
+Hello, I am a 3rd year Computer Systems Engineering student with a passion for programming and problem-solving. I have a diverse set of skills in various programming languages and web technologies.
+My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CSS. I have hands-on experience in building dynamic and interactive web applications, utilizing the power of PHP and JavaScript. Additionally, my knowledge of C++ and Python allows me to develop efficient and robust software solutions.
 
    <p align="left">
       <a href="https://github.com/AlessandroKE?tab=followers">
