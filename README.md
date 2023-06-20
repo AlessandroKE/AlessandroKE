@@ -1,5 +1,7 @@
 # 🏄‍♂️ Sandro KE
 
+<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
+
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alessandro+)](https://git.io/typing-svg)
 
