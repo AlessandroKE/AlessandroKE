@@ -49,7 +49,12 @@ My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CS
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroKE&theme=gruvbox&border_radius=4.5) -->
 
+<div style="margin-left: 100px;">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hhi04mza8tzqnup14crdvfv2p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://github.com/Ash-codes18/Ash-codes18/blob/main/images/head-phones.jpeg" align="right" width="445" height="450">
+</div>
 
 #
 
