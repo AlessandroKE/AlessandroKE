@@ -49,6 +49,8 @@ My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CS
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroKE&theme=gruvbox&border_radius=4.5) -->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hhi04mza8tzqnup14crdvfv2p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
 #
 
 <details>
