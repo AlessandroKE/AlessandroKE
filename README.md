@@ -5,7 +5,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&col
 
 <p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
 
-
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=Alessandro &label=Profile%20views&color=0e75b6&style=flat"
     alt="Alessandro-Koome" /> </p>
