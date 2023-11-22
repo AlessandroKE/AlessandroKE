@@ -5,14 +5,15 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&col
 
 <p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=Alessandro &label=Profile%20views&color=0e75b6&style=flat"
-    alt="Alessandro-Koome" /> </p>
-  
-Welcome to my Github page
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Alessandro&label=Profile%20views&color=0e75b6&style=flat" alt="Alessandro-Koome" />
+</p>
 
-Hello, I am a 3rd-year Computer Systems Engineering student with a passion for programming and problem-solving. I have a diverse set of skills in various programming languages and web technologies.
-My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CSS. I have hands-on experience in building dynamic and interactive web applications, utilizing the power of PHP and JavaScript. Additionally, my knowledge of C++ and Python allows me to develop efficient and robust software solutions.
+  
+Welcome to my GitHub page
+
+Hello, I am a 3rd-year Computer Systems Engineering student passionate about programming and problem-solving. I have diverse skills in various programming languages and web technologies.
+My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CSS. I have hands-on experience building dynamic and interactive web applications, utilizing the power of PHP and JavaScript. Additionally, my knowledge of C++ and Python allows me to develop efficient and robust software solutions.
 
    <p align="left">
       <a href="https://github.com/AlessandroKE?tab=followers">
@@ -66,11 +67,11 @@ My foundation includes proficiency in PHP, JavaScript, C++, Python, HTML, and CS
 
 <details>
  <summary><h3>👨‍💻 Sandro's Coding Journey</h3></summary>
-   I embarked on my coding journey as a wide-eyed computer systems engineering student, driven by an insatiable curiosity for the vast realm of programming and the captivating world of cybersecurity. I eagerly delved into various domains, ranging from code development and Unix/Linux systems to intricate theoretical concepts. Along this transformative path, I discovered PHP, a language that has become my current focal point.
+   As a wide-eyed computer systems engineering student, I embarked on my coding journey, driven by an insatiable curiosity for the vast realm of programming and the captivating world of cybersecurity. I eagerly delved into various domains, from code development and Unix/Linux systems to intricate theoretical concepts. Along this transformative path, I discovered PHP, a language that has become my current focal point.
 
-As I progress in my fourth year of study at Kirinyaga University, I have made a conscious decision to hone my skills and specialize in PHP for backend development, leveraging its power to create robust and dynamic web applications. Moreover, I have also embraced Python as my tool of choice for data analytics, enabling me to extract valuable insights from complex datasets.While I briefly succumbed to a sense of overwhelm, I have since found renewed inspiration and motivation from supportive friends and my deep-rooted passion for coding. This unwavering enthusiasm drives me to transcend my previous limitations, committing myself to continuous growth and improvement.
+As I progressed in my fourth year at Kirinyaga University, I consciously decided to hone my skills and specialize in PHP for backend development, leveraging its power to create robust and dynamic web applications. Moreover, I have embraced Python as my tool for data analytics, enabling me to extract valuable insights from complex datasets. While briefly succumbed to a sense of overwhelm, I have since found renewed inspiration and motivation from supportive friends and my deep-rooted passion for coding. This unwavering enthusiasm drives me to transcend my previous limitations, committing myself to continuous growth and improvement.
 
-By combining my knowledge of PHP with the analytical prowess of Python, I am poised to tackle diverse challenges in the digital landscape. My multifaceted skill set, encompassing backend development, data analysis, and an unwavering commitment to cybersecurity, positions me as a versatile and dynamic professional.I am eager to embrace opportunities that allow me to contribute my expertise, learn from industry experts, and make a lasting impact in the ever-evolving world of programming.
+By combining my knowledge of PHP with the analytical prowess of Python, I am poised to tackle diverse challenges in the digital landscape. My multifaceted skill set, encompassing backend development, data analysis, and an unwavering commitment to cybersecurity, positions me as a versatile and dynamic professional. I am eager to embrace opportunities that allow me to contribute my expertise, learn from industry experts, and make a lasting impact in the ever-evolving programming world.
 
 
 [youtube]: https://youtube.com/fknight
